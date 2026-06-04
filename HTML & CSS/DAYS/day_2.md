@@ -34,3 +34,19 @@ To understand the basics of HTML and CSS and set up the learning resources for f
 - Learned the fundamentals of CSS.
 - Gained introductory knowledge of Box Model and Flexbox.
 - Learned how to manage learning resources using GitHub.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
