@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;900;800&display=swap");
 
 body{
-    font-family: "Poppins", sans-serif;
+    font-family: "Poppins", italic;
 }
 
 p{
@@ -16,8 +16,9 @@ h1{
 
 /*  Text Related Properties */
 h1{
+    font-style: italic;
     font-size: 35px;
-    text-decoration: underline solid #444;
+    text-decoration: underline solid :red;
 }
 
 
