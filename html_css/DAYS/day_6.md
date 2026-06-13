@@ -1,7 +1,5 @@
-# Day 6 - CSS Grid
 
-**Date:** 09-06-2026  
-**Day:** Tuesday
+
 
 ## What is CSS Grid?
 
