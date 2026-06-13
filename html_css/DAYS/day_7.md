@@ -1,5 +1,5 @@
 
-
+DAY 7 : JAVA SCRIPT
 
  1. Introduction to JavaScript:
 
@@ -16,7 +16,7 @@ Variables are used to store data values in JavaScript. They allow us to save and
 Example:
 
 ```javascript
-let name = "Chinmay";
+let name = "Harsh";
 ```
 
  4. Variable Keywords:
@@ -34,8 +34,8 @@ String indexing allows us to access individual characters of a string using thei
 Example:
 
 ```javascript
-let name = "Chinmay";
-console.log(name[0]); // C
+let name = "harsh";
+console.log(name[0]); // h
 ```
 
  6. String Methods:
@@ -45,7 +45,7 @@ String methods are built-in functions used to perform operations on strings, suc
 Example:
 
 ```javascript
-let name = "Chinmay";
+let name = "harsh";
 console.log(name.toUpperCase());
 ```
 
