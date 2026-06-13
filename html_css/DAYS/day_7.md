@@ -1,5 +1,5 @@
 
-DAY 7 : JAVA SCRIPT
+# DAY 7 : JAVA SCRIPT
 
  1. Introduction to JavaScript:
 
