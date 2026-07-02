@@ -1,0 +1,1 @@
+#### Done revision of react and some installations
